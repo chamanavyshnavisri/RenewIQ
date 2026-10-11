@@ -1,0 +1,6 @@
+{
+  "name": "GreenSpace AI",
+  "description": "AI-powered renewable energy planning assistant for homeowners and property owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
